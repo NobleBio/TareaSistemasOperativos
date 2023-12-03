@@ -38,6 +38,7 @@ En la terminal
 make
 Esto creará el ejecutable output/grisOpenMP.
 
+En caso de que el resultado del comando make sea: "make: Nothing to be done for 'all', esto indica que el programa ya esta compilado y no se han registrado cambios en el codigo por lo que no es necesario volverlo a compilar
 -----------------------------
 
 Ejecutar el Programa:
